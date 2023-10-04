@@ -1,0 +1,18 @@
+{
+  "name": "node.js-portfolio-website-master",
+  "version": "1.0.0",
+  "description": "Portfolio website using Express, Node.js",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^2.3.4",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "jeremiahNwaobodo",
+  "license": "ISC"
+}
